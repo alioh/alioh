@@ -11,16 +11,17 @@
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/AliOh/" alt="Linkedin"><img src=""></a>
-    <a href="https://twitter.com/alioh" alt="Twitter"><img src=""></a>
-    <a href="https://t.me/aliohali" alt="Telegram"><img src=""></a>
-    <a href="https://alioh.github.io/" alt="My Blog"><img src=""></a>
-    <a href="https://www.alioh.com/" alt="My site"><img src=""></a>
+    <a href="https://www.linkedin.com/in/AliOh/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
+    <a href="https://twitter.com/alioh" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
+    <a href="https://t.me/aliohali" alt="Telegram"><img src="https://raw.githubusercontent.com/alioh/alioh/master/telegram-fill.png"></a>
+    <a href="https://alioh.github.io/" alt="My Blog"><img src="https://raw.githubusercontent.com/alioh/alioh/master/book-2-fill.png"></a>
+    <a href="https://www.alioh.com/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
 
   <p align="center">
     <a href="http://hits.dwyl.com/alioh/alioh">
       <img align="center" src="http://hits.dwyl.com/alioh/alioh.svg">
-    </a>
+    </a><br>
+    <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
   </p>
 </p>
