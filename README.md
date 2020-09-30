@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I am Ali 👋
 
-<!--
-**alioh/alioh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on secret project 🕵️.
+- 🌱 I’m currently learning Flutter, Django and working on practicing/improve my data science skills.
+- 👯 I’m looking to collaborate on any projects related to data science.
+- 💬 Ask me about python, data analysis or anything!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/AliOh/" alt="Linkedin"><img src=""></a>
+    <a href="https://twitter.com/alioh" alt="Twitter"><img src=""></a>
+    <a href="https://t.me/aliohali" alt="Telegram"><img src=""></a>
+    <a href="https://alioh.github.io/" alt="My Blog"><img src=""></a>
+    <a href="https://www.alioh.com/" alt="My site"><img src=""></a>
+  </p>
+
+  <p align="center">
+    <a href="http://hits.dwyl.com/alioh/alioh">
+      <img align="center" src="http://hits.dwyl.com/alioh/alioh.svg">
+    </a>
+  </p>
+</p>
