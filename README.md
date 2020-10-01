@@ -1,3 +1,5 @@
+[![Updated Badge](https://badges.pufler.dev/updated/alioh/alioh)](https://github.com/alioh)
+
 ### Hi, I am Ali 👋
 
 
@@ -17,11 +19,19 @@
     <a href="https://alioh.github.io/" alt="My Blog"><img src="https://raw.githubusercontent.com/alioh/alioh/master/book-2-fill.png"></a>
     <a href="https://www.alioh.com/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
   </p>
+  
+
 
   <p align="center">
-    <a href="http://hits.dwyl.com/alioh/alioh">
+    <!--  <a href="http://hits.dwyl.com/alioh/alioh"> 
       <img align="center" src="http://hits.dwyl.com/alioh/alioh.svg">
-    </a><br>
+    </a>  -->
+    
+  <br>
     <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
   </p>
+  
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/alioh/alioh)](https://github.com/alioh) [![Years Badge](https://badges.pufler.dev/years/alioh)](https://github.com/alioh) [![Repos Badge](https://badges.pufler.dev/repos/alioh)](https://github.com/alioh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/alioh)](https://github.com/alioh)
+  
 </p>
