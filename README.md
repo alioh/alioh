@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/alioh/alioh)](https://github.com/alioh)
+
 
 ### Hi, I am Ali 👋
 
@@ -6,7 +6,10 @@
 - 🔭 I’m currently working on a secret project 🕵️ it will published here very soon™.
 - 🌱 I’m currently learning PHP, Flutter, Django and working on practicing/improve my data science skills.
 - 👯 I’m looking to collaborate on any projects related to data science.
-- 💬 Ask me about python, data analysis or anything!
+- 💬 Ask me about python, data analysis or anything!  
+<br>
+
+  [![Updated Badge](https://badges.pufler.dev/updated/alioh/alioh)](https://github.com/alioh) [![Visits Badge](https://badges.pufler.dev/visits/alioh/alioh)](https://github.com/alioh) [![Years Badge](https://badges.pufler.dev/years/alioh)](https://github.com/alioh) [![Repos Badge](https://badges.pufler.dev/repos/alioh)](https://github.com/alioh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/alioh)](https://github.com/alioh)
 
 <hr>
 <p align="center">
@@ -22,16 +25,13 @@
   
 
 
-  <p align="center">
-    <!--  <a href="http://hits.dwyl.com/alioh/alioh"> 
-      <img align="center" src="http://hits.dwyl.com/alioh/alioh.svg">
-    </a>  -->
-    
+  <p align="center">  
   <br>
     <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
   </p>
   
   
-  [![Visits Badge](https://badges.pufler.dev/visits/alioh/alioh)](https://github.com/alioh) [![Years Badge](https://badges.pufler.dev/years/alioh)](https://github.com/alioh) [![Repos Badge](https://badges.pufler.dev/repos/alioh)](https://github.com/alioh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/alioh)](https://github.com/alioh)
-  
+  <!-- https://pufler.dev/git-badges/ -->
+
+
 </p>
