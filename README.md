@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a secret project 🕵️ it will published here very soon™.
-- 🌱 I’m currently learning Flutter, Django and working on practicing/improve my data science skills.
+- 🌱 I’m currently learning PHP, Flutter, Django and working on practicing/improve my data science skills.
 - 👯 I’m looking to collaborate on any projects related to data science.
 - 💬 Ask me about python, data analysis or anything!
 
