@@ -28,7 +28,7 @@
   <p align="center">  
   <br>
     <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alioh)]
+    <img alt="Ali's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alioh" />
   </p>
   
   
