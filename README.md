@@ -26,8 +26,9 @@
 
 
   <p align="center">  
-  <br>
+    <br>
     <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
+    <br>
     <img alt="Ali's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alioh" />
   </p>
   
