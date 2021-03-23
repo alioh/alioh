@@ -3,7 +3,7 @@
 ### Hi, I am Ali 👋
 
 
-- <s>🔭 I’m currently working on a secret project 🕵️ it will published here very soon™.</s>
+- <s>🔭 I’m currently working on a secret project 🕵️ it will published here very soon™.</s> [Arabic Translation of Data 100 Textbook at UC Berkeley](https://alioh.github.io/ds-100-ar/).
 - 🌱 I’m currently learning JS, PHP, Flutter, Django and working on practicing/improving my data science skills.
 - 👯 I’m looking to collaborate on any projects related to data science.
 - 💬 Ask me about python, data analysis or anything!  
