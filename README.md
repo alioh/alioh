@@ -3,10 +3,10 @@
 ### Hi, I am Ali 👋
 
 
-- <s>🔭 I’m currently working on a secret project 🕵️ it will published here very soon™.</s> [Arabic Translation of Data 100 Textbook at UC Berkeley](https://alioh.github.io/ds-100-ar/).
-- 🌱 I’m currently learning JS, PHP, Flutter, Django and working on practicing/improving my data science skills.
-- 👯 I’m looking to collaborate on any projects related to data science.
-- 💬 Ask me about python, data analysis or anything!  
+- 🧬 Data scientist with 10+ years of experience turning complex data into decisions with Python, SQL, Alteryx, and Power BI.
+- 🔭 Outside of that, I build and ship my own projects, like [tawzea.at](https://tawzea.at) and [daleel.li](https://daleel.li).
+- 🤖 These days I'm into AI and vibe coding — building apps with AI as a core part of the workflow.
+- 👯 I'm looking to collaborate on interesting projects.
 <br>
 
   [![Updated Badge](https://badges.pufler.dev/updated/alioh/alioh)](https://github.com/alioh) [![Visits Badge](https://badges.pufler.dev/visits/alioh/alioh)](https://github.com/alioh) [![Years Badge](https://badges.pufler.dev/years/alioh)](https://github.com/alioh) [![Repos Badge](https://badges.pufler.dev/repos/alioh)](https://github.com/alioh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/alioh)](https://github.com/alioh)
@@ -16,11 +16,10 @@
   <i>Let's connect and chat!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/AliOh/" alt="Linkedin"><img src="https://raw.githubusercontent.com/alioh/alioh/master/linkedin-box-fill.png"></a>
-    <a href="https://twitter.com/alioh" alt="Twitter"><img src="https://raw.githubusercontent.com/alioh/alioh/master/twitter-fill.png"></a>
-    <a href="https://t.me/aliohali" alt="Telegram"><img src="https://raw.githubusercontent.com/alioh/alioh/master/telegram-fill.png"></a>
-    <a href="https://alioh.github.io/" alt="My Blog"><img src="https://raw.githubusercontent.com/alioh/alioh/master/book-2-fill.png"></a>
-    <a href="https://www.alioh.com/" alt="My site"><img src="https://raw.githubusercontent.com/alioh/alioh/master/links-fill.png"></a>
+    <a href="https://www.linkedin.com/in/AliOh/">LinkedIn</a> ·
+    <a href="https://twitter.com/alioh">Twitter</a> ·
+    <a href="https://t.me/aliohali">Telegram</a> ·
+    <a href="https://www.alioh.com/">Site</a>
   </p>
   
 
