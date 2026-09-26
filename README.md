@@ -17,22 +17,8 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/AliOh/">LinkedIn</a> ·
-    <a href="https://twitter.com/alioh">Twitter</a> ·
+    <a href="https://X.com/alioh">X</a> ·
     <a href="https://t.me/aliohali">Telegram</a> ·
     <a href="https://www.alioh.com/">Site</a>
   </p>
-  
-
-
-  <p align="center">  
-    <br>
-    <img alt="Ali's github stats" src="https://github-readme-stats.alioh.vercel.app/api?username=alioh&show_icons=true&hide_border=true" />
-    <br>
-    <img alt="Ali's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alioh" />
-  </p>
-  
-  
-  <!-- https://pufler.dev/git-badges/ -->
-
-
 </p>
