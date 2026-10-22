@@ -9,7 +9,7 @@
 - 👯 I'm looking to collaborate on interesting projects.
 <br>
 
-  [![Updated Badge](https://badges.pufler.dev/updated/alioh/alioh)](https://github.com/alioh) [![Visits Badge](https://badges.pufler.dev/visits/alioh/alioh)](https://github.com/alioh) [![Years Badge](https://badges.pufler.dev/years/alioh)](https://github.com/alioh) [![Repos Badge](https://badges.pufler.dev/repos/alioh)](https://github.com/alioh) [![Commits Badge](https://badges.pufler.dev/commits/monthly/alioh)](https://github.com/alioh)
+    [![Profile views](https://komarev.com/ghpvc/?username=alioh&label=Profile+views&style=flat)](https://github.com/alioh) [![Followers](https://img.shields.io/github/followers/alioh?style=flat&logo=github)](https://github.com/alioh?tab=followers) [![Stars](https://img.shields.io/github/stars/alioh?style=flat&logo=github)](https://github.com/alioh?tab=repositories) [![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/alioh&query=$.public_repos&label=Repos&logo=github&style=flat)](https://github.com/alioh?tab=repositories) [![Last commit](https://img.shields.io/github/last-commit/alioh/alioh?style=flat&logo=github)](https://github.com/alioh/alioh/commits)
 
 <hr>
 <p align="center">
