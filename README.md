@@ -3,9 +3,9 @@
 ### Hi, I am Ali 👋
 
 
-- 🧬 Data scientist with 10+ years of experience turning complex data into decisions with Python, SQL, Alteryx, and Power BI.
+- 🧬 Data professional with 10+ years of experience turning complex data into decisions with Python, SQL, Alteryx, and Power BI.
 - 🔭 Outside of that, I build and ship my own projects, like [tawzea.at](https://tawzea.at) and [daleel.li](https://daleel.li).
-- 🤖 These days I'm into AI and vibe coding — building apps with AI as a core part of the workflow.
+- 🤖 These days I'm into AI and vibe coding - building apps with AI as a core part of the workflow.
 - 👯 I'm looking to collaborate on interesting projects.
 <br>
 
